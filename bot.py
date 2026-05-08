@@ -1,8 +1,8 @@
 import requests
 import random
 
-BOT_TOKEN = "8242223953:AAHwT4z3k2P4Gd5eO_t0B1CQdFu92XuUbZ4"
-CHAT_ID = "@FlashLootDeals"
+BOT_TOKEN = "8703751712:AAGDB_XXc_ueR9s8MrXQ03JuosOixgMVy0c"
+CHAT_ID = "@FlashLootDealsa"
 
 deals = [
     "https://amzn.to/3OUEjEe",
